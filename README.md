@@ -1,2 +1,2 @@
-# log
+# 🪵 log
 Log of my days.
